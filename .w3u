@@ -1,7 +1,7 @@
 {"name": "REPLEY TV",
 "image":"https://yourclubox.com/box/Logos/img1.png",
 "author": "El salvador - MELVIN",
-"groups": [
+"stations": [
 
 {"name":"WOW TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
 "url":"https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"},
