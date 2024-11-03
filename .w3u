@@ -1,13 +1,55 @@
-{"name": "REPLAY TV",
-"image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Cine vip-MELVIN",
+{"name": "REPLEY TV",
+"image":"https://iconape.com/wp-content/files/yf/235069/svg/235069.svg",
+"author": "El Salvador-MELVIN",
 "stations": [
 
-{"name":"UNIVISION 45 HOUSTON", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMfEvgHpLF51s5HR4tUKMzbQYkwSt9NkQZ8CSCdXSsQ&s", 
-"url":"http://premierchile.shop:8080/live/944319949tv/mz8d0s/68664.ts"},
+{"name":"WOW TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"},
 
-{"name":"CINE FAMILIAR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU", 
-"url":"http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8"},
+{"name":"LEON DE JUDAS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"},
 
-{"name":"CINE PREMIUN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&usqp=CAU",
-"url":"http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8"}]},
+{"name":"TVCA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8?fm=hls"},
+
+{"name":"CANAL 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"},
+
+{"name":"CANAL 3", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"},
+
+{"name":"CANAL 4", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8"},
+
+{"name":"CANAL 6", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"},
+
+{"name":"CANAL 10","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU",
+"url":"http://play.steeltv.org:8080/live/GTnubetv/9XvbmwuFW8rF/72327.ts"},
+
+{"name":"CANAL 12","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU",
+"url":"http://play.steeltv.org:8080/live/GTnubetv/9XvbmwuFW8rF/72326.ts"},
+
+{"name":"MEGAVISIÓN 19", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"http://play.steeltv.org:8080/live/GTnubetv/9XvbmwuFW8rF/165185.ts"},
+
+{"name":"MEGAVISIÓN 21", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/master.m3u8"},
+
+{"name":"TCS+", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"},
+
+{"name":"TV CRET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://radiocret.net:8082/hls/tvcret.m3u8?PlaylistM3UCL"},
+
+{"name":"TVM", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"http://201.247.102.189/tmp_hls/stream/index.m3u8"},
+
+{"name":"RTV 57", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8"},
+
+{"name":"TuTV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
+"url":"https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8"},
+
+{"name":"ORBITA FM TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU",
+"url":"https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8"},
