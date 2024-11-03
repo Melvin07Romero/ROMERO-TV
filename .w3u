@@ -1,7 +1,7 @@
 {"name": "REPLEY TV",
-"image":"https://iconape.com/wp-content/files/yf/235069/svg/235069.svg",
-"author": "El Salvador-MELVIN",
-"stations": [
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "El salvador - MELVIN",
+"groups": [
 
 {"name":"WOW TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU", 
 "url":"https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"},
@@ -52,4 +52,4 @@
 "url":"https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8"},
 
 {"name":"ORBITA FM TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseYX17JsYj1V628JlJbeTdzoXVUqb67ZYbQ&usqp=CAU",
-"url":"https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8"},
+"url":"https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8"}]}]}]}
